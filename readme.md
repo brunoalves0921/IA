@@ -30,7 +30,7 @@ Este é um programa em Python que realiza uma simulação genética para resolve
 
 5. **Visualizar Resultados Bloco 1 e Bloco 2:**
    - Após a execução, o programa gerará arquivos CSV (`bloco_1.csv` e `bloco_2.csv`) com os resultados da simulação.
-   - Você pode executar o notebook "graficos.ipynb" para visualizar os resultados plotados em gráficos
+   - Você pode executar o notebook "graficos.ipynb" para visualizar os resultados plotados em gráficos, para isso basta importar esse arquivo no Colab ou executar pelo VSCode.
 
 6. **Modificar Experimentos (Opcional):**
    - Se desejar realizar experimentos adicionais, ajuste os parâmetros diretamente no código-fonte (funções `bloco_1()` e `bloco_2()`).
